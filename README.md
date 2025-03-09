@@ -54,7 +54,3 @@ By leveraging data-driven insights, companies can fine-tune their discount strat
 ---
 
 Feel free to explore the project, contribute, or use it for learning more about **Business Intelligence** and **Data Analysis**! 😊
-
----
-
-### **#DataAnalysis #PowerBI #BusinessIntelligence #DiscountOptimization #ProfitMaximization #PricingStrategy #DAX #DataScience** 🌟
